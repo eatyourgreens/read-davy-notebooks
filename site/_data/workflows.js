@@ -1,4 +1,4 @@
-import fetchWithRetry from '..helpers/fetchWithRetry.js'
+import fetchWithRetry from '../helpers/fetchWithRetry.js'
 
 /*
 Fetches ALL Workflows from a Project.
